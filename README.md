@@ -1,3 +1,4 @@
+![Screenshot_2024-04-16-02-43-02-09_fdbf0c60a4e60c1d94ce967657abd703](https://github.com/bitcoin-wallet/bitcoin-wallet/assets/152862920/7b31fce5-81bd-4ad5-b02f-77f10103d3ca)
 # BITCOIN WALLET
 
 Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android device!
